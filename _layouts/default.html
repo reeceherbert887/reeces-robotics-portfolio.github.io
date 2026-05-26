@@ -1,18 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
 </head>
-
 <body>
-
   {% include nav.html %}
 
   <main>
     {{ content }}
   </main>
 
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      if (typeof mermaid === "undefined") return;
+
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: "base",
+        securityLevel: "loose",
+        themeVariables: {
+          primaryColor: "#026aa7",
+          secondaryColor: "#f9f9f9",
+          tertiaryColor: "#ffffff",
+          primaryTextColor: "#111",
+          secondaryTextColor: "#333"
+        }
+      });
+
+      document.querySelectorAll("pre code.language-mermaid").forEach(function (codeBlock) {
+        var pre = codeBlock.parentNode;
+        if (!pre || pre.tagName.toLowerCase() !== "pre") return;
+        var wrapper = document.createElement("div");
+        wrapper.className = "mermaid";
+        wrapper.textContent = codeBlock.textContent;
+        pre.parentNode.replaceChild(wrapper, pre);
+      });
+
+      mermaid.run();
+    });
+  </script>
+
+  {% include footer.html %}
 </body>
 </html>

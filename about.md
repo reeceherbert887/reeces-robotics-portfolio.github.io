@@ -6,4 +6,4 @@ permalink: /about/
 
 # About Me
 
-This is the about page.
+I am a Robotics & AI student interested in ROS2, Gazebo simulation, embedded systems, IoT, Linux, and practical engineering projects.

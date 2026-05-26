@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Baxter Code"
-date: 2026-01-18
-permalink: /society-projects/baxter-code/
-excerpt: "Programming Baxter the robot."
+title: Baxter Code
+permalink: /society-projects/baxter/baxter-code/
 ---
 
 # 9. Scripting

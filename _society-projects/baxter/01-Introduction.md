@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Baxter Introduction"
-date: 2026-03-07
-permalink: /society-projects/baxter-introduction/
-excerpt: "Programming Baxter the robot."
+title: Baxter Introduction
+permalink: /society-projects/baxter/introduction/
 ---
 
 # 1. What Baxter Is

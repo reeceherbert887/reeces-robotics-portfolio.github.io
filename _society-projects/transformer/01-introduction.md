@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Transformer"
-date: 2026-01-17
-permalink: /society-projects/transformer-introduction/
-excerpt: "Introduction to our most recent project"
+title: Transformer
+permalink: /society-projects/transformer/introduction/
 ---
 
 # Core Electronics

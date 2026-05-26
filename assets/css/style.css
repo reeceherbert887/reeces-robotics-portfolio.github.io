@@ -1,0 +1,114 @@
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+nav a {
+  margin-right: 0.75rem;
+}
+
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  margin-top: 1rem;
+}
+
+pre, code {
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  background: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 1rem;
+  margin: 1rem 0;
+  white-space: pre;
+}
+
+code {
+  padding: 0.2rem 0.4rem;
+}
+
+.mermaid {
+  margin: 1.25rem 0;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+@media (max-width: 768px) {
+  pre {
+    white-space: pre-wrap;
+  }
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 0.75rem 0.9rem;
+  text-align: left;
+}
+
+th {
+  background: #f2f4f7;
+}
+
+tbody tr:nth-child(even) {
+  background: #fafbfc;
+}
+
+/* Basic navigation and dropdown styling */
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.project-dropdown {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  margin: 1rem 0;
+}
+
+.project-dropdown summary {
+  cursor: pointer;
+  font-size: 1.05rem;
+}
+
+.project-dropdown ul {
+  margin-top: 0.8rem;
+}
+
+/* Dropdown project lists */
+.project-dropdown {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  margin: 1rem 0;
+}
+
+.project-dropdown summary {
+  cursor: pointer;
+  font-size: 1.05rem;
+}
+
+.project-dropdown ul {
+  margin-top: 0.8rem;
+}

@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Baxter Setup"
-date: 2026-01-18
-permalink: /society-projects/baxter-setup/
-excerpt: "How to set up and initialise a Baxter robot."
+title: Baxter Setup
+permalink: /society-projects/baxter/baxter-setup/
 ---
 
 # 1. Create the Workspace
@@ -13,7 +11,7 @@ Make sure the name reflects the project's purpose.
 
 ```
 mkdir -p ~/ros_baxter_ws/src
-```s
+```
 
 > It is recommended to keep “ros” in the name, but make the rest meaningful.
 

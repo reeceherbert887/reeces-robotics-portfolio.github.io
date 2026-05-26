@@ -1,6 +1,21 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
+permalink: /
 ---
+
+# Reece Herbert
+
+Robotics & AI student portfolio.
+
+This site contains my university coursework, robotics society work, personal projects, CV, and ongoing experiments.
+
+## Main Sections
+
+- [About Me](/about/)
+- [University](/university/)
+- [Course Projects](/course-projects/)
+- [Society Projects](/society-projects/)
+- [Summer Projects](/summer-projects/)
+- [Personal Projects](/personal-projects/)
+- [CV](/cv/)
