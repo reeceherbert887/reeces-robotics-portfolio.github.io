@@ -41,6 +41,19 @@
       });
 
       mermaid.run();
+
+      var header = document.querySelector('.site-header');
+      function updateHeaderTitle() {
+        if (window.scrollY > 120) {
+          header.classList.add('scrolled');
+        } else {
+          header.classList.remove('scrolled');
+        }
+      }
+      if (header) {
+        updateHeaderTitle();
+        window.addEventListener('scroll', updateHeaderTitle, { passive: true });
+      }
     });
   </script>
 
