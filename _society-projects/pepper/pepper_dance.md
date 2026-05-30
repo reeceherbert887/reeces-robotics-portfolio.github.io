@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pepper Dance
+permalink: /society-projects/pepper/pepper-dance/
+---
+
 # Pepper Dance
 
 ## Overview

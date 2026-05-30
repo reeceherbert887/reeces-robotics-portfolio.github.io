@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pepper Robo Grad
+permalink: /society-projects/pepper/pepper-robo-grad/
+---
+
 # Pepper Robo Grad
 
 ## Overview

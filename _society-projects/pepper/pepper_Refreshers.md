@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pepper Refreshers
+permalink: /society-projects/pepper/pepper-refreshers/
+---
+
 # Pepper Refreshers
 
 ## Overview

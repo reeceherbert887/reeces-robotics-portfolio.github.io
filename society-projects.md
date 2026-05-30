@@ -20,12 +20,23 @@ These are the Markdown pages in this section.
     <li><a href="/society-projects/baxter/baxter-setup/">Baxter Setup</a></li>
   </ul>
 </details>
+
+<details class="project-dropdown" open>
+  <summary><strong>Pepper</strong></summary>
+  <ul>
+    <li><a href="/society-projects/pepper/pepper-dance/">Pepper Dance</a></li>
+    <li><a href="/society-projects/pepper/pepper-refreshers/">Pepper Refreshers</a></li>
+    <li><a href="/society-projects/pepper/pepper-robo-grad/">Pepper Robo Grad</a></li>
+  </ul>
+</details>
+
 <details class="project-dropdown" open>
   <summary><strong>Robot Chess</strong></summary>
   <ul>
     <li><a href="/society-projects/robot-chess/robotic-chess-system-masterplan-phase-1/">Modular Robotic Chess System with Digital Twin</a></li>
   </ul>
 </details>
+
 <details class="project-dropdown" open>
   <summary><strong>Transformer</strong></summary>
   <ul>
@@ -34,7 +45,5 @@ These are the Markdown pages in this section.
 </details>
 
 ## Repository
-
-Replace this placeholder with the correct GitHub repository link when ready:
 
 [View GitHub Repository](https://github.com/reeceherbert887)
