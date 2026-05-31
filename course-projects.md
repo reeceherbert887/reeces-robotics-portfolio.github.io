@@ -23,8 +23,8 @@ These are the Markdown pages in this section.
 <details class="project-dropdown" open>
   <summary><strong>Artificial Intelligence</strong></summary>
   <ul>
-    <li><a href="/course-projects/artificial-intellegence/assignment-checklist/">Assignment Checklist</a></li>
-    <li><a href="/course-projects/artificial-intellegence/assignment-master-plan/">Assignment Master Plan</a></li>
+    <li><a href="/course-projects/artificial-intelegence/assignmnet-checklist/">Assignment Checklist</a></li>
+    <li><a href="/course-projects/artificial-intelegence/assignment-master-plan/">Assignment Master Plan</a></li>
     <br>
     <p><a href="https://github.com/reeceherbert887/551458_A25_T1_Artificial_Intelligence.git">Artificial Intelligence Repository</a></p>
   </ul>

@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Task A - Initial Exploration
+layout: default
+title: Task A Initial Exploration
+permalink: /course-projects/data-analysis-assignment2/task-a-initial-exploration/
 ---
 
 # Task A - Initial Exploration of Data

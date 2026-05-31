@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ESP32 Implementation
+title: Firebeetle ESP32 Implementation
 permalink: /course-projects/iot-assignment/firebeetle-esp32-implementation/
 ---
 

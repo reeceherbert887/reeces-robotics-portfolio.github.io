@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Task B - Prediction Models
+layout: default
+title: Task B Prediction Models
+permalink: /course-projects/data-analysis-assignment2/task-b-prediction-models/
 ---
 
 # Task B - Building the Prediction Model

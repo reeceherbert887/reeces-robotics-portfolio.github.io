@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ROS2 Assignment 2 Checklist
+title: Task Check List
 permalink: /course-projects/ros2-assignment2/task-check-list/
 ---
 

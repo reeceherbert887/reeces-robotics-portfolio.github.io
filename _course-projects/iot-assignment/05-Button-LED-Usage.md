@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Button LED Usage
+title: Button Led Usage
 permalink: /course-projects/iot-assignment/button-led-usage/
 ---
 

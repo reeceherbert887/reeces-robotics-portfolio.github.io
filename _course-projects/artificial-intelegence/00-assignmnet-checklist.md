@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Assignment Checklist
-permalink: /course-projects/artificial-intellegence/assignment-checklist/
+title: Assignmnet Checklist
+permalink: /course-projects/artificial-intelegence/assignmnet-checklist/
 ---
 
 # Assignment Checklist

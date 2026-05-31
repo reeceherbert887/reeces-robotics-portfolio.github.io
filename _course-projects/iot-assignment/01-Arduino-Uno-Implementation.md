@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arduino Uno Implementation
+title: Arduino UNO Implementation
 permalink: /course-projects/iot-assignment/arduino-uno-implementation/
 ---
 

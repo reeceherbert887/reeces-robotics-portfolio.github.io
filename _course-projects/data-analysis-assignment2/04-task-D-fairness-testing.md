@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Task D - Fairness Testing
+layout: default
+title: Task D Fairness Testing
+permalink: /course-projects/data-analysis-assignment2/task-d-fairness-testing/
 ---
 
 # Task D - Fairness Testing

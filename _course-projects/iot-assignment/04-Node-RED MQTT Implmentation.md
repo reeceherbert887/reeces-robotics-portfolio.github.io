@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Node-RED MQTT Implementation
+title: Node Red MQTT Implementation
 permalink: /course-projects/iot-assignment/node-red-mqtt-implementation/
 ---
 

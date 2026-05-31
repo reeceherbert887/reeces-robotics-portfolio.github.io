@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assignment Master Plan
-permalink: /course-projects/artificial-intellegence/assignment-master-plan/
+permalink: /course-projects/artificial-intelegence/assignment-master-plan/
 ---
 
 # Artificial Intelligence Assignment Masterplan

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UNO ↔ ESP32 Communication Protocol
+title: UNO ESP32 Communication Protocol
 permalink: /course-projects/iot-assignment/uno-esp32-communication-protocol/
 ---
 

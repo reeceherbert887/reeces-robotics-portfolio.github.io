@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robotics Assignment 2
+title: Task2
 permalink: /course-projects/ros2-assignment2/task2/
 ---
 

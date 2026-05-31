@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Task C - Explainability
+layout: default
+title: Task C Explainability
+permalink: /course-projects/data-analysis-assignment2/task-c-explainability/
 ---
 
 # Task C - Explainability Analysis
