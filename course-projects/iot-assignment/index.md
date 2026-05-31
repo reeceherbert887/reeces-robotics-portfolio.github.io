@@ -15,3 +15,4 @@ permalink: /course-projects/iot-assignment/
 - [IoT Assignment Masterplan](/course-projects/iot-assignment/iot-assignment-masterplan/)
 - [Node-RED MQTT Implementation](/course-projects/iot-assignment/node-red-mqtt-implementation/)
 - [UNO ↔ ESP32 Communication Protocol](/course-projects/iot-assignment/uno-esp32-communication-protocol/)
+
