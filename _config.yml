@@ -21,3 +21,7 @@ collections:
   personal-projects:
     output: true
     permalink: /personal-projects/:name/
+
+  university:
+    output: true
+    permalink: /university/:name/

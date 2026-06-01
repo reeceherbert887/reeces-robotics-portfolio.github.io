@@ -11,3 +11,5 @@ This section contains university coursework, module projects, reports, videos, a
 ## Sections
 
 - [Course Projects](/course-projects/)
+- [Overview](/university/overview/introduction)
+- [Grades](/university/grades/grades/)
