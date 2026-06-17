@@ -4,7 +4,7 @@ title: "Personal"
 permalink: "/personal/"
 ---
 
-# Personal
+# Self help guides
 
 This section contains personal guides and home-lab projects.
 
@@ -43,11 +43,18 @@ This section contains personal guides and home-lab projects.
 </details>
 
 <details class="project-dropdown" open>
-	<summary><strong>TrueNAS & Nextcloud</strong></summary>
+	<summary><strong>Servers</strong></summary>
 	<ul>
 		<li><a href="/personal/true-nas/01-true-nas-setup/">TrueNAS Setup</a></li>
 		<li><a href="/personal/true-nas/02-truenas-storage-setup-guide/">TrueNAS Storage Setup Guide</a></li>
 		<li><a href="/personal/true-nas/03-nextcloud/">Nextcloud Integration</a></li>
+		<li><a href="/personal/true_nas/04-truenas-home-assistant-recovery">Home Assistant Recovery</a></li>
+		<li><a href="/personal/true_nas/05-truenas-nextcloud-recovery">Nextcloud Recovery</a></li>
+		<li><a href="/personal/true_nas/06-truenas-smb-recovery">SMB Recovery</a></li>
+		<li><a href="/personal/true_nas/07-opnsense-installation-&-nitial-setup-guide">OPNsense Instalation</a></li>
+		<li><a href="/personal/true_nas/08-opnsense-gui-config-&-remote-management">OPNsense GUI</a></li>
+		<li><a href="/personal/true_nas/09-opnsense-wireguard-ssh-walkthrough">OPNsense Wireguard</a></li>
+		
 	</ul>
 </details>
 

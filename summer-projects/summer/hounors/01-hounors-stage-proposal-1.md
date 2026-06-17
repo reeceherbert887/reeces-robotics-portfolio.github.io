@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Honors Stage R&D
-permalink: /summer-projects/summer/hounors-stage-rd/
+permalink: /summer-projects/summer/hounors/01-hounors-stage-proposal-1/
 ---
 
-# AI-Assisted Condition Monitoring of a Fluid Filtration Rig Using Pressure/Flow Sensor Fusion and Anomaly Detection
+<h1><u>AI-Assisted Condition Monitoring of a Fluid Filtration Rig Using Pressure/Flow Sensor Fusion and Anomaly Detection</u></h1>
 
 ## Project Development Flow
 
