@@ -10,6 +10,19 @@ This section contains university coursework, module projects, reports, videos, a
 
 ## Sections
 
-- [Course Projects](/course-projects/)
-- [Overview](/university/overview/introduction)
-- [Grades](/university/grades/grades/)
+
+<details class="project-dropdown" open>
+	<summary><strong>Grades</strong></summary>
+	<ul>
+		<li><a href="/university/grades/01-grades/">My University Grades </a></li>
+	</ul>
+</details>
+
+
+<details class="project-dropdown" open>
+	<summary><strong>Overview</strong></summary>
+	<ul>
+		<li><a href="/university/overview/01-introduction/">Introduction</a></li>
+	</ul>
+</details>
+

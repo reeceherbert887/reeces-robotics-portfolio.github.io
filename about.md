@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 <h1 align="center">Hi, I'm Reece</h1>
-<h3 align="center">Robotics & AI Student | President of Hull Robotics Society | Homelab beginner | IT technician</h3>
+<h3 align="center">Robotics & AI Student | President of Hull Robotics Society | Homelab Enthusiast | IT technician</h3>
 
-- 🎓 BSc Robotics & Artificial Intelligence Student at the University of Hull
+- BSc Robotics & Artificial Intelligence Student at the University of Hull
 
-- 🤖 Interested in Robotics, Artificial Intelligence, IoT, Embedded Systems, Linux, Networking and Homelab Infrastructure
+- Interested in Robotics, Artificial Intelligence, IoT, Embedded Systems, Linux, Networking and Homelab Infrastructure
 
-- 🔬 Currently developing robotics, ROS2, Arduino, AI and Home Lab projects
+- Currently developing robotics, ROS2, Arduino, AI and Home Lab projects
 
 <h3 align="left">Technologies & Tools I Have used or currently exploring:</h3>
 

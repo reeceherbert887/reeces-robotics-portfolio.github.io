@@ -8,6 +8,7 @@ permalink: /course-projects/iot-assignment/
 
 ## Pages
 
+
 - [IoT System Overview](/course-projects/iot-assignment/iot-system/)
 - [Assignment Checklist](/course-projects/iot-assignment/assignment-checklist/)
 - [Arduino Uno Implementation](/course-projects/iot-assignment/arduino-uno-implementation/)

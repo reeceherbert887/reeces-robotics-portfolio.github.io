@@ -4,11 +4,7 @@ title: Course Projects
 permalink: /course-projects/
 ---
 
-# Course Projects
-
-These are the Markdown pages in this section.
-
-## Pages
+<p> For ease of use for my University courses I have only added my Robotics centerd modules.</p>
 
 <details class="project-dropdown" open>
   <summary><strong>Robotics and Simulation ROS2 Assignment 1</strong></summary>
