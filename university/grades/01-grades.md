@@ -1,7 +1,7 @@
 ---
 layout: default
 title: University Grades
-permalink: /university/grades/grades/
+permalink: /university/grades/01-grades/
 ---
 
 # University Grades Summary
@@ -42,11 +42,11 @@ An overview of completed modules and current Level 5 results.
 
 | Module                         |  Mark |
 | ------------------------------ | ----: |
-| Artificial Intelligence        |    93 |
-| Electronics & Microcontrollers |    87 |
-| Connected Devices & IoT        |    71 |
-| Data Analysis & Visualisation  | 77.67 |
-| Robotics & Simulation          | 69.75 |
+| Artificial Intelligence        |   93  |
+| Electronics & Microcontrollers |   87  |
+| Connected Devices & IoT        |   71  |
+| Data Analysis & Visualisation  |   56  |
+| Robotics & Simulation          |   70  |
 
 **Overall:** First
 

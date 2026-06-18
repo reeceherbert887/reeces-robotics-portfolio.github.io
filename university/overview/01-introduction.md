@@ -1,7 +1,7 @@
 ---
 layout: default
 title: University
-permalink: /university/overview/introduction
+permalink: /university/overview/01-introduction/
 ---
 
-# 1 My University story
+# My University story
