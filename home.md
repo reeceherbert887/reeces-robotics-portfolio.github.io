@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: home
+permalink: /home/
 ---
 
 <h1 align="center">Hi, I'm Reece</h1>
@@ -16,6 +16,7 @@ permalink: /about/
 <h3 align="left">Technologies & Tools I Have used or currently exploring:</h3>
 
 <p align="left">
+
 
 <!-- Programming -->
 <a href="https://www.python.org/" target="_blank">
@@ -75,4 +76,20 @@ permalink: /about/
 </a>
 
 </p>
+
+<br>
+
+<h1 align="center"> Personal introduction</h1>
+
+# About Me
+
+As a Robotics and Artificial Intelligence student at the University of Hull with a strong passion for technology, engineering, and problem-solving.
+
+My interests span robotics, artificial intelligence, embedded systems, networking, cybersecurity, and homelab infrastructure. I enjoy combining software and hardware to design practical solutions, whether that involves programming autonomous systems, building IoT devices, analysing data, or deploying and managing self-hosted services.
+
+Alongside my academic studies, I actively develop personal and technical projects to expand my skills beyond the classroom. These projects include robotics systems, AI applications, Linux administration, network infrastructure, virtualization, self-hosted cloud services, and disaster recovery planning. I believe the best way to learn is by building, testing, breaking, and improving real systems.
+
+I currently serve as President of the Hull Robotics Society, where I help organise projects, support fellow students, and promote hands-on learning within the robotics community.
+
+This portfolio showcases my university coursework, personal projects, society work, and ongoing technical development. It serves as both a record of my progress and a demonstration of the skills, knowledge, and experience I continue to build as I work towards a career in robotics, artificial intelligence, and systems engineering.
 
