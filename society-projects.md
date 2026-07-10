@@ -9,6 +9,14 @@ permalink: /society-projects/
 
 <p> My University Robotics Society centerd Projects I hve undertaken or led.</p>
 
+
+<details class="project-dropdown" open>
+  <summary><strong>Robsoc Videos</strong></summary>
+  <ul>
+    <li><a href="/society-projects/robsoc-videos/">Robsoc Videos</a></li>
+  </ul>
+</details>
+
 <details class="project-dropdown" open>
   <summary><strong>Baxter</strong></summary>
   <ul>
